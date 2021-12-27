@@ -13,4 +13,5 @@ Once the "Run Me!" file has been executed and the UAC has been confirmed as admi
 # Is it possible to save the PC?
 Windows itself cannot be repaired, which means that you have to attach the hard disk to another PC to save your files. Some personal files can be deletet in this version
 if you want to keep personal files use the german [v.2.7](https://github.com/MarcBeast/Windows-Destroyer/releases/tag/v.2.7)
+
 Windows must then be reinstalled. Other hard drives are not affected by the tool.
