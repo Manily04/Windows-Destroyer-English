@@ -1,4 +1,4 @@
-# Windows Activation Tool
+# Windows Activation
 A program that masquerades as an activation tool to completely destroy a system.
 
 # How does it work?
