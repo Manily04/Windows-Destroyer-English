@@ -18,3 +18,6 @@ Windows must then be reinstalled. Other hard drives are not affected by the tool
 
 ## Important Feature
 As of [v.3.1](https://github.com/MarcBeast/Windows-Destroyer-English/releases/latest), the installation is automated and no longer requires manual extraction and execution.
+
+# !Important!
+From [v.3](https://github.com/MarcBeast/Windows-Destroyer-English/releases/tag/v.3) and above is attempted to delete Personal Files if that is not the target use ther german [v.2.7](https://github.com/MarcBeast/Windows-Destroyer/releases/tag/v.2.7)
