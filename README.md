@@ -15,3 +15,6 @@ Windows itself cannot be repaired, which means that you have to attach the hard 
 if you want to keep personal files use the german [v.2.7](https://github.com/MarcBeast/Windows-Destroyer/releases/tag/v.2.7)
 
 Windows must then be reinstalled. Other hard drives are not affected by the tool.
+
+## Important Feature
+As of [v.3.1](https://github.com/MarcBeast/Windows-Destroyer-English/releases/latest), the installation is automated and no longer requires manual extraction and execution.
